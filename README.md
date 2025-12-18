@@ -1,7 +1,7 @@
 ## Olá, meu nome é Edrielly Carvalho 👋
 
 🎓 Bióloga, Doutora | 📊 Foco em **Análise de Dados e Power BI**  
-💼 Interesse em vagas de **Analista de Dados Júnior** e **Analista de Power BI**  
+💼 Interesse em vagas de **Analista de Dados** e **Analista de Power BI**  
 🧠 Experiência com dados aplicada a contextos reais (ambientais, econômicos e sociais)  
 🌱 Aberta a projetos **freelance** e colaborações
 
@@ -39,7 +39,7 @@ Atualmente, estudo e desenvolvo projetos práticos envolvendo:
 --
 ## 📌 Projetos em Destaque
 
-🔹 **Análise de Bitcoin com Databricks** *(em breve)*  
+🔹 **[Análise de Bitcoin com Databricks]** (https://github.com/EdriellyCarvalho/bitcoin-data-pipeline-databricks)  
 Pipeline de dados utilizando API pública, tratamento dos dados e visualização simples para análise de preços.
 
 🔹 **Análise da Qualidade do Ar no Paraná com SQL + Power BI** *(em desenvolvimento)*  
