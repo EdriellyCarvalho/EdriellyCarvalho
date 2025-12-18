@@ -39,7 +39,7 @@ Atualmente, estudo e desenvolvo projetos práticos envolvendo:
 --
 ## 📌 Projetos em Destaque
 
-🔹 **[Análise de Bitcoin com Databricks]** (https://github.com/EdriellyCarvalho/bitcoin-data-pipeline-databricks)  
+🔹 **[Análise de Bitcoin com Databricks](https://github.com/EdriellyCarvalho/bitcoin-data-pipeline-databricks)**  
 Pipeline de dados utilizando API pública, tratamento dos dados e visualização simples para análise de preços.
 
 🔹 **Análise da Qualidade do Ar no Paraná com SQL + Power BI** *(em desenvolvimento)*  
