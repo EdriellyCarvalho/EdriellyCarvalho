@@ -5,7 +5,6 @@
 🧠 Experiência com dados aplicada a contextos reais (ambientais, econômicos e sociais)  
 🌱 Aberta a projetos **freelance** e colaborações
 
---
 
 ## 🚀 Sobre mim
 
@@ -18,7 +17,6 @@ Atualmente, estudo e desenvolvo projetos práticos envolvendo:
 - Dashboards em Power BI
 - Pipelines simples de dados (ETL)
 
---
 ## 🛠️ Tecnologias & Ferramentas
 
 **Análise de Dados**
@@ -36,16 +34,15 @@ Atualmente, estudo e desenvolvo projetos práticos envolvendo:
 - Excel
 - Visualização de dados
 
---
 ## 📌 Projetos em Destaque
 
 🔹 **[Análise de Bitcoin com Databricks](https://github.com/EdriellyCarvalho/bitcoin-data-pipeline-databricks)**  
 Pipeline de dados utilizando API pública, tratamento dos dados e visualização simples para análise de preços.
 
-🔹 **Análise da Qualidade do Ar no Paraná com SQL + Power BI** *(em desenvolvimento)*  
+🔹 **[Análise da Qualidade do Ar a partir de Dados de Estação de Monitoramento - PR](https://github.com/EdriellyCarvalho/qualidade-ar-pr)**   
 Projeto focado em análise ambiental, modelagem de dados em SQL e criação de dashboards interativos no Power BI.
 
---
+
 ## 🎯 Objetivo Profissional
 
 Atuar como **Analista de Dados** ou **Analista de Power BI**, aplicando análise de dados para resolver problemas reais, com interesse especial em projetos que envolvam:
