@@ -36,6 +36,9 @@ Atualmente, estudo e desenvolvo projetos práticos envolvendo:
 
 ## 📌 Projetos em Destaque
 
+🔹 **[Sales Overview - Dashboard de Vendas - Power BI](https://github.com/EdriellyCarvalho/sales-overview-power-bi)**
+Dashboard analítico de vendas com indicadores financeiros e segmentação por negócio, desenvolvido para apoiar a análise de desempenho comercial.
+
 🔹 **[Análise de Bitcoin com Databricks](https://github.com/EdriellyCarvalho/bitcoin-data-pipeline-databricks)**  
 Pipeline de dados utilizando API pública, tratamento dos dados e visualização simples para análise de preços.
 
