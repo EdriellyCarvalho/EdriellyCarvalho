@@ -82,7 +82,6 @@ Atuar como **Analista de Dados** ou **Analista de Power BI**, aplicando análise
 - Dados públicos
 - Meio ambiente
 
---
 
 ## 📫 Vamos conversar?
 - 💼 [LinkedIn] (https://www.linkedin.com/in/edrielly-carvalho/)
