@@ -34,17 +34,46 @@ Atualmente, estudo e desenvolvo projetos práticos envolvendo:
 - Excel
 - Visualização de dados
 
-## 📌 Projetos em Destaque
+## 📌 Portfólio e principais Projetos em Destaque
 
-🔹 **[Sales Overview - Dashboard de Vendas - Power BI](https://github.com/EdriellyCarvalho/sales-overview-power-bi)**
-Dashboard analítico de vendas com indicadores financeiros e segmentação por negócio, desenvolvido para apoiar a análise de desempenho comercial.
+<table>
+  <tr>
+    <td>
+      🔹 <strong><a href="https://github.com/EdriellyCarvalho/sales-overview-power-bi">Sales Overview - Dashboard de Vendas - Power BI</a></strong><br>
+      Dashboard analítico de vendas com indicadores financeiros e segmentação por negócio, desenvolvido para apoiar a análise de desempenho comercial.
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/EdriellyCarvalho/sales-overview-power-bi/master/images/1-sales-overview.jpeg" alt="Dashboard de Vendas" width="650"/>
+    </td>
+  </tr>
+</table>
 
-🔹 **[Análise de Bitcoin com Databricks](https://github.com/EdriellyCarvalho/bitcoin-data-pipeline-databricks)**  
-Pipeline de dados utilizando API pública, tratamento dos dados e visualização simples para análise de preços.
 
-🔹 **[Análise da Qualidade do Ar a partir de Dados de Estação de Monitoramento - PR](https://github.com/EdriellyCarvalho/qualidade-ar-pr)**   
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/EdriellyCarvalho/bitcoin-data-pipeline-databricks/blob/main/dashboard/dashboard_bitcoin.jpeg" alt="Análise de Bitcoin" width="450"/>
+   </td>
+  <td>
+    🔹 <strong><a href="https://github.com/EdriellyCarvalho/bitcoin-data-pipeline-databricks/tree/main">Análise de Bitcoin com Databricks</a></strong><br>
+     Pipeline de dados utilizando API pública, tratamento dos dados e visualização simples para análise de preços.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td>
+      🔹 <strong><a href="https://github.com/EdriellyCarvalho/qualidade-ar-pr">Análise da Qualidade do Ar a partir de Dados de Estação de Monitoramento - PR</a></strong><br>   
 Projeto focado em análise ambiental, modelagem de dados em SQL e criação de dashboards interativos no Power BI.
-
+    </td>
+    <td>
+      <img src="https://github.com/EdriellyCarvalho/qualidade-ar-pr/blob/main/pbix/dashboard_qualidade_ar.jpeg" alt="Qualidade do Ar" width="450"/>
+    </td>
+  </tr>
+</table>
 
 ## 🎯 Objetivo Profissional
 
